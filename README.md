@@ -1,4 +1,4 @@
-**Name: ** Mohammed Saeed
+**Name:** Mohammed Saeed
 **Company:** CODTECH IT SOLUTIONS
 **Domain:** Cyber security 
 **Duration:** June - July 2024
