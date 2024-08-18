@@ -21,6 +21,7 @@ The Objective of this task is to develop a tool that assesses the strength of pa
 - **Integrated Development Environment:** Android Studio<br>
 - **Tools used:** Android Emulator<br>
 ## The UI:<br>
+![Alt text](https://github.com/Saeed-ktln/CODTECH-Task-1/blob/main/The%20UI.jpeg)
 
 
 
