@@ -20,7 +20,7 @@ The Objective of this task is to develop a tool that assesses the strength of pa
 - **Programming Language:** Kotlin <br>
 - **Integrated Development Environment:** Android Studio<br>
 - **Tools used:** Android Emulator<br>
-## Link to the Project:<br>
+## The UI:<br>
 
 
 
